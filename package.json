@@ -1,7 +1,7 @@
 {
   "name": "wonder-arena-matchmaking-server",
-  "version": "1.0.0",
-  "description": "Servidor gratuito/simple de matchmaking y relay WebSocket para Wonder Arena.",
+  "version": "2.0.0",
+  "description": "Wonder Arena matchmaking WebSocket server with verbose logs.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
